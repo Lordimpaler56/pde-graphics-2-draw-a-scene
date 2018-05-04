@@ -41,6 +41,28 @@ void draw() {
   stroke(0);
   strokeWeight(6);
   rect(338,330,50,125);
+  
+  fill(255,255,0);
+  stroke(0);
+  strokeWeight(2);
+  rect(313,120,25,25);
+  
+  fill(255,255,0);
+  stroke(255,0,1);
+  strokeWeight(7);
+  rect(287,40,75,75);
+  
+  fill(70,173,212);
+  stroke(70,173,212);
+  rect(300,70,11,9);
+  
+  fill(70,173,212);
+  stroke(70,173,212);
+  rect(340,70,11,9);
+  
+  fill(255,0,1);
+  stroke(255,0,1);
+  rect(320,40,8,8);
 
   fill(70,173,212);
   stroke(0);
