@@ -69,6 +69,9 @@ void draw() {
   strokeWeight(5);
   ellipse(325,200,60,60);
   
+  fill(0);
+  textSize(50);
+  text("Iron Man", 50, 100);
   
   
   
